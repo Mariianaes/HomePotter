@@ -1,0 +1,302 @@
+
+h1::first-letter{
+  font-size: 60px;
+}
+
+h1{
+  font-family: 'Playball', cursive;
+  font-size: 60px;
+  text-align: center;
+  color: black;
+}
+
+#infs{
+  height: 100%;
+  background-image: url(images/f.jpg);
+}
+
+#bruxos{
+  height: 100%;
+  background-image: url(images/bruxos.jpg);
+}
+
+#animalia{
+  height: 100%;
+  background-image: url(images/animais.jpg);
+}
+#top{
+  font-family: 'Fredericka the Great', cursive;
+  color: #27408B;
+  font-size: 30px;
+  text-align: center;
+}
+
+#c{
+  font-family: 'Fredericka the Great', cursive;
+  color: grey;
+  font-size: 30px;
+  text-align: center;
+}
+
+#curiosidades{
+  height: 100%;
+  background-image: url(images/castelo.jpg);
+}
+
+.cr{
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  background-color: white;
+  opacity: 0.70;
+  padding: 1em;
+  font-size: 25px;
+  border-radius: 70px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cr h2{
+  font-size: 25px;
+  font-family: 'Playball', cursive;
+  color: grey;
+
+}
+
+
+#bruxo{
+  padding-top: 5px;
+  background-color: lightgrey;
+  width: auto;
+  padding-left: 175px;
+  margin: inherit;
+  text-align: justify;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: cursive;
+  opacity: 0.75;
+  color: white;
+  clear: both;
+  border: solid black 1px;
+
+}
+
+#curiosidade{
+  padding-top: 5px;
+  background-color: lightgrey;
+  width: auto;
+  padding-left: 175px;
+  margin: inherit;
+  text-align: justify;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: cursive;
+  opacity: 0.75;
+  color: white;
+  clear: both;
+  border: solid black 1px;
+}
+
+.br{
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  background-color: white;
+  opacity: 0.70;
+  padding: 1em;
+  font-size: 25px;
+  border-radius: 70px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#br{
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  background-color: white;
+  padding: 1em;
+  font-size: 25px;
+  border-radius: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid grey 3px;
+}
+
+
+h2{
+  font-size: 25px;
+  font-family: 'Playball', cursive;
+  color: #27408B;
+}
+
+p{
+  text-align: center;
+  font-size: 17px;
+  font-family: cursive;
+}
+
+.gifs{
+  border-radius: 10px;
+  border-radius: 50%;
+  border: solid lightgrey;
+}
+
+#m{
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+
+}
+
+#g{
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-right: 100px;
+}
+
+#s{
+  float: right;
+  margin-top: 300px;
+  margin-right: 40px;
+  clear: both;
+}
+
+#v{
+  float: left;
+  margin-top: 300px;
+  margin-left: 70px;
+}
+
+#kedavra{
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-left: 70px;
+  width: 300px;
+}
+
+#expelliarmus{
+  float: right;
+  width: 200px;
+  height: 200px;
+  margin-right: 100px;
+  width: 300px;
+}
+
+#crucio{
+  float: right;
+  margin-top: 300px;
+  margin-right: 80px;
+  clear: both;
+  height: 200px;
+  width: 300px;
+}
+
+#patrono{
+  float: left;
+  margin-top: 300px;
+  margin-left: 70px;
+  width: 300px;
+}
+
+#animal{
+  padding-top: 5px;
+  background-color: lightgrey;
+  width: auto;
+  padding-left: 175px;
+  margin: inherit;
+  text-align: justify;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  border: solid black 1px;
+  font-size: 15px;
+  font-family: cursive;
+  opacity: 0.9;
+  color: white;
+  clear: both;
+
+}
+
+.fantasticos{
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  background-color: white;
+  opacity: 0.70;
+  padding: 1em;
+  font-size: 25px;
+  border-radius: 70px;
+  float: left;
+}
+
+#a{
+  font-family: 'Cabin Sketch', cursive;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+.fantasticos h2{
+  color: black;
+}
+
+.gifs2{
+  border-radius: 10px black;border-radius: 50%;
+  border: solid black 5px;
+}
+
+.gifs3{
+  border-radius: 10px black;border-radius: 50%;
+  border: solid lightgrey 3px;
+
+}
+
+#p{
+  width: 200px;
+  height: 120px;
+  margin-left: 30px;
+}
+
+#fantastic{
+  color: black;
+  width: 800px;
+  height: 800px;
+  text-align: center;
+  background-color: white;
+  opacity: 0.70;
+  padding: 1em;
+  font-size: 25px;
+  border-radius: 70px;
+  float: right;
+
+}
+
+#fantastic h2{
+  color: black;
+}
+
+#mari{
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.gifs, .gifs2, .gifs3{
+  max-width: 100%;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.gifs:hover, .gifs2:hover, .gifs3:hover{
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}

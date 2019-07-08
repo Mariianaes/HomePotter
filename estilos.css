@@ -1,0 +1,136 @@
+
+  body {
+    height: 100%;
+    background-image: url(images/outras.jpg);
+  }
+
+  h1 {
+      font-family: 'Playball', cursive;
+      font-size: 40px;
+      text-align: center;
+      color: black;
+    }
+
+
+
+  #quadro {
+    padding-top: 30px;
+    background-color: white;
+    width: auto;
+    padding-left: 175px;
+    margin: inherit;
+    text-align: justify;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: cursive;
+    opacity: 0.75;
+    color: black;
+  }
+
+
+@media (max-width: 1614px) {
+  #quadro .botoes {
+    padding-right: 50px;
+    padding-left: 22px;
+  }
+
+}
+
+
+  .botoes {
+    display: inline-block;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    border: none;
+    margin: 10px;
+    color: #D3D3D3;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: 'Fredericka the Great', cursive;
+  }
+
+  #botao:hover {
+    background-color: grey ;
+    color: black;
+  }
+
+
+  #menu-hogwarts:hover .sub-menu{
+    display: block;
+
+  }
+
+  .sub-menu #botao{
+    display: block;
+  }
+
+  .sub-menu {
+    display: none;
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+  }
+
+  div{
+    display: inline-block;
+  }
+
+  #top-10:hover .sub-top{
+    display: block;
+  }
+
+  .sub-top #botao {
+    display: block;
+  }
+
+  .sub-top {
+    display: none;
+    position: absolute;
+    background-color: black;
+    border-radius: 10px;
+  }
+
+  p{
+    width: 300px;
+    height: 400px;
+    float: right;
+    text-align: justify;
+    background: rgba(255, 255, 255);
+    opacity: 0.75;
+    padding: 1em;
+  }
+
+  p::first-letter{
+    font-size: 45px;
+    float: left;
+  }
+
+  #harry-pixel{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top:10px;
+    left:10px;
+    width:17px;
+    height:22px;
+    z-index: '50';
+  }
+
+.botoes {
+  box-shadow: 0px 0px 0px 5px black;
+  transition: box-shadow 0.8s linear;
+}
+
+.botoes:hover {
+  box-shadow: 0px 0px 0px 7px grey;
+}
+
+#infor {
+  height: 50px;
+  width: 50px;
+}

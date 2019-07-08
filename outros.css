@@ -1,0 +1,107 @@
+#livros{
+	height: 100%;
+    background-image: url(images/salao.png);
+}
+
+
+
+.livro{
+	width: 800px;
+    height: 800px;
+    text-align: justify;
+    background: rgba(255, 255, 255);
+    opacity: 0.75;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px;
+    float: left;
+
+}
+
+#cabecalhodolivro{
+	padding-top: 5px;
+    background-color: white;
+    width: auto;
+    padding-left: 175px;
+    margin: inherit;
+    text-align: justify;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    opacity: 0.75;
+    color: black;
+}
+
+h1{
+	font-family: 'Playball', cursive;
+	text-align: center;
+	color: grey;
+}
+
+.livro2{
+	width: 800px;
+    height: 800px;
+    text-align: justify;
+    background: rgba(255, 255, 255);
+    opacity: 0.75;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 70px;
+    float: right;
+
+}
+
+p{
+  text-align: center;
+  font-size: 17px;
+  font-family: cursive;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+	color: grey;
+}
+
+#harry{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 80px;
+    opacity: 0;
+}
+
+#harry:hover{
+    opacity: 1;
+}
+
+#rony{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 110px;
+    opacity: 0;
+}
+
+#rony:hover{
+    opacity: 1;
+}
+
+#hermione{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 140px;
+    opacity: 0;
+}
+
+#hermione:hover{
+    opacity: 1;
+}

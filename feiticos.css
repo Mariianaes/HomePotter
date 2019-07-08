@@ -1,0 +1,128 @@
+body{
+  height: 100%;
+  background-image: url(images/fundo.jpg);
+}
+
+h1{
+  font-family: 'Mountains of Christmas', cursive;
+  color: LightGrey;
+  text-align: center;
+  font-size: 50px;
+}
+
+#wingardium{
+  float: right;
+  color: #9400D3;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 35px;
+}
+
+
+
+#expelliarmus{
+  float: left;
+  color: #1E90FF;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+
+#avada{
+  float: left;
+  margin-right: 70px;
+  color: #556B2F;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 40px;
+}
+
+
+#diffindo{
+  float: left;
+  color: red;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 35px;
+}
+
+
+#aguamenti{
+  float: left;
+  color: #00FFFF;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+
+
+#crucio{
+  float: right;
+  color: #FFFAFA;
+  font-family: 'Mountains of Christmas', cursive;
+  margin-bottom: 150px;
+  font-size: 25px;
+  margin-right: 50px;
+}
+
+#imperius{
+  float: right;
+  margin-right: 300px;
+  margin-bottom: 300px;
+  color: yellow;
+  font-size: 35px;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+#petrificus{
+  font-size: 45px;
+  color: #87CEFA;
+  float: left;
+  margin-left: 60px;
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+#lumos{
+  font-size: 60px;
+  color: #87CEFA;
+  float: right;
+  margin-right: 60px;
+  font-family: 'Mountains of Christmas', cursive;
+  margin-top: 150px;
+}
+
+.feitico{
+  opacity: 1;
+  font-family: 'Mountains of Christmas', cursive;
+
+}
+
+.feitico:hover{
+  opacity: 1;
+  font-family: 'Mountains of Christmas', cursive;
+
+}
+
+#accio{
+  font-size: 60px;
+  color: #FFB90F;
+  float: left;
+  font-family: 'Mountains of Christmas', cursive;
+  margin-left: 100px;
+  position: absolute;
+}
+
+#bombarda{
+  color: #B22222;
+  font-size: 50px;
+}
+
+#aresto{
+  font-size: 40px;
+  color: #EEE8AA;
+}
+
+#sectumsempra{
+  
+  color: white;
+}
+svg{
+  margin: 0 auto;
+  display: block;
+}
+
